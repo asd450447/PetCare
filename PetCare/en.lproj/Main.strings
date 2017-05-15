@@ -1,0 +1,279 @@
+
+/* Class = "UIButton"; normalTitle = "查询"; ObjectID = "0X8-o6-pbI"; */
+"0X8-o6-pbI.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1QA-TU-eaV"; */
+"1QA-TU-eaV.text" = "Label";
+
+/* Class = "UILabel"; text = "帮助与设置"; ObjectID = "1yi-Mz-ZjK"; */
+"1yi-Mz-ZjK.text" = "Help And Setting";
+
+/* Class = "UILabel"; text = "1份"; ObjectID = "2Mx-RU-ZU6"; */
+"2Mx-RU-ZU6.text" = "1份";
+
+/* Class = "UILabel"; text = "添加设备"; ObjectID = "2VJ-yN-JW2"; */
+"2VJ-yN-JW2.text" = "Add Device";
+
+/* Class = "UITextField"; placeholder = "账号"; ObjectID = "3Jm-86-X4b"; */
+"3Jm-86-X4b.placeholder" = "Account";
+
+/* Class = "UILabel"; text = "不在线"; ObjectID = "3xm-jQ-dup"; */
+"3xm-jQ-dup.text" = "UnOnline";
+
+/* Class = "UILabel"; text = "添加设备"; ObjectID = "4dz-51-ZT1"; */
+"4dz-51-ZT1.text" = "Add Device";
+
+/* Class = "UITableViewSection"; headerTitle = "时间"; ObjectID = "4h3-Xo-xFe"; */
+"4h3-Xo-xFe.headerTitle" = "Time";
+
+/* Class = "UILabel"; text = "添加设备"; ObjectID = "5DD-JD-BQA"; */
+"5DD-JD-BQA.text" = "Add Device";
+
+/* Class = "UILabel"; text = "联系客服"; ObjectID = "7Dd-iu-NeB"; */
+"7Dd-iu-NeB.text" = "Contact the Customer Service";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Zq-I4-Edy"; */
+"9Zq-I4-Edy.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "退出登录"; ObjectID = "Abf-sM-yKd"; */
+"Abf-sM-yKd.normalTitle" = "Log Out";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "Aup-yM-cc6"; */
+"Aup-yM-cc6.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "注册"; ObjectID = "D00-4A-hlh"; */
+"D00-4A-hlh.text" = "Register";
+
+/* Class = "UILabel"; text = "重置密码"; ObjectID = "D0v-y7-v83"; */
+"D0v-y7-v83.text" = "Reset Password";
+
+/* Class = "UITableViewSection"; headerTitle = "常用功能"; ObjectID = "D2Y-RM-r8a"; */
+"D2Y-RM-r8a.headerTitle" = "Common Function";
+
+/* Class = "UILabel"; text = "选择设备加入的WIFI网络"; ObjectID = "DbR-eX-mBd"; */
+"DbR-eX-mBd.text" = "Select the WIFI";
+
+/* Class = "UILabel"; text = "1份"; ObjectID = "EOe-gZ-qCH"; */
+"EOe-gZ-qCH.text" = "1份";
+
+/* Class = "UILabel"; text = "当天"; ObjectID = "FRO-6A-54w"; */
+"FRO-6A-54w.text" = "Today";
+
+/* Class = "UILabel"; text = "配置时，手机离设备近点哦～～"; ObjectID = "I0C-EC-tpo"; */
+"I0C-EC-tpo.text" = "When configured, the phone is near the device～～";
+
+/* Class = "UILabel"; text = "宠物爱好者"; ObjectID = "INB-nP-oZ2"; */
+"INB-nP-oZ2.text" = "PetCare";
+
+/* Class = "UIButton"; normalTitle = "重设密码"; ObjectID = "LAc-yd-FKt"; */
+"LAc-yd-FKt.normalTitle" = "Reset Password";
+
+/* Class = "UITextField"; placeholder = "填写校验码"; ObjectID = "LoL-ZQ-h20"; */
+"LoL-ZQ-h20.placeholder" = "Fill in the check code";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "Lyr-Dj-cL6"; */
+"Lyr-Dj-cL6.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "宠物商城"; ObjectID = "MZ6-4p-G06"; */
+"MZ6-4p-G06.text" = "Pet Shopping Mall";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "N4g-Cp-adJ"; */
+"N4g-Cp-adJ.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = "再次确认密码"; ObjectID = "Og2-6A-tIz"; */
+"Og2-6A-tIz.placeholder" = "Confirm the password again";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-1"; ObjectID = "Ogm-uG-0wH"; */
+"Ogm-uG-0wH.headerTitle" = "Section-1";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "PcV-fu-iYf"; */
+"PcV-fu-iYf.text" = "00:00";
+
+/* Class = "UITableViewSection"; headerTitle = "类型"; ObjectID = "QWk-f0-StH"; */
+"QWk-f0-StH.headerTitle" = "Type";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "Qrq-zG-0bc"; */
+"Qrq-zG-0bc.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "1份"; ObjectID = "RXN-Ln-TSN"; */
+"RXN-Ln-TSN.normalTitle" = "1份";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "U0H-LF-B7y"; */
+"U0H-LF-B7y.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "1份"; ObjectID = "U6d-5o-Tvl"; */
+"U6d-5o-Tvl.text" = "1份";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "UGa-qJ-ck5"; */
+"UGa-qJ-ck5.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "1份"; ObjectID = "UgM-Cz-vfT"; */
+"UgM-Cz-vfT.text" = "1份";
+
+/* Class = "UILabel"; text = "2/3"; ObjectID = "UwS-6K-uZf"; */
+"UwS-6K-uZf.text" = "2/3";
+
+/* Class = "UITextField"; placeholder = "请输入账号"; ObjectID = "VHh-OY-PWb"; */
+"VHh-OY-PWb.placeholder" = "Please input Username";
+
+/* Class = "UILabel"; text = "当天"; ObjectID = "VjD-Zk-mfk"; */
+"VjD-Zk-mfk.text" = "Today";
+
+/* Class = "UINavigationItem"; title = "添加设备"; ObjectID = "VxV-tn-Os6"; */
+"VxV-tn-Os6.title" = "Add Device";
+
+/* Class = "UIButton"; normalTitle = "每天"; ObjectID = "WLS-E5-DVx"; */
+"WLS-E5-DVx.normalTitle" = "Every Day";
+
+/* Class = "UITabBarItem"; title = "添加"; ObjectID = "ZB0-G8-V5x"; */
+"ZB0-G8-V5x.title" = "Add";
+
+/* Class = "UILabel"; text = "查询"; ObjectID = "Zbo-Hh-bT2"; */
+"Zbo-Hh-bT2.text" = "Search";
+
+/* Class = "UILabel"; text = "当天"; ObjectID = "ZtO-xG-97A"; */
+"ZtO-xG-97A.text" = "Today";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "asB-Vi-pou"; */
+"asB-Vi-pou.text" = "00:00";
+
+/* Class = "UILabel"; text = "当天"; ObjectID = "bod-P5-cty"; */
+"bod-P5-cty.text" = "Today";
+
+/* Class = "UITextField"; placeholder = "请设置新密码"; ObjectID = "c7c-kx-YUN"; */
+"c7c-kx-YUN.placeholder" = "Please set a new password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cOE-dp-pE5"; */
+"cOE-dp-pE5.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "caM-WG-BoK"; */
+"caM-WG-BoK.normalTitle" = "Login";
+
+/* Class = "UITableViewSection"; headerTitle = "喂水"; ObjectID = "cyp-rB-voX"; */
+"cyp-rB-voX.headerTitle" = "Watering";
+
+/* Class = "UITabBarItem"; title = "我"; ObjectID = "d8b-Mh-kCW"; */
+"d8b-Mh-kCW.title" = "Me";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "dXc-Qh-0wf"; */
+"dXc-Qh-0wf.text" = "00:00";
+
+/* Class = "UITableViewSection"; headerTitle = "定时设置"; ObjectID = "dc0-Wh-6Bi"; */
+"dc0-Wh-6Bi.headerTitle" = "Timing Settings";
+
+/* Class = "UINavigationItem"; title = "宠物关爱者"; ObjectID = "ddv-gk-RpH"; */
+"ddv-gk-RpH.title" = "PetCare";
+
+/* Class = "UILabel"; text = "1份"; ObjectID = "hzG-Lo-XXD"; */
+"hzG-Lo-XXD.text" = "1份";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-2"; ObjectID = "iLv-7B-142"; */
+"iLv-7B-142.headerTitle" = "Section-2";
+
+/* Class = "UIButton"; normalTitle = "获取校验码"; ObjectID = "jWU-YT-wdD"; */
+"jWU-YT-wdD.normalTitle" = "Check Code";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "jaV-8B-gb3"; */
+"jaV-8B-gb3.text" = "00:00";
+
+/* Class = "UINavigationItem"; title = "忘记密码"; ObjectID = "jcF-jU-Glp"; */
+"jcF-jU-Glp.title" = "Foeget Password";
+
+/* Class = "UILabel"; text = "3/3"; ObjectID = "k7G-ZT-7ko"; */
+"k7G-ZT-7ko.text" = "3/3";
+
+/* Class = "UIButton"; normalTitle = "请选择日期"; ObjectID = "kCz-bc-tnL"; */
+"kCz-bc-tnL.normalTitle" = "Select Date";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "kPp-dy-jU7"; */
+"kPp-dy-jU7.normalTitle" = "Back";
+
+/* Class = "UITextField"; placeholder = "请输入手机号码"; ObjectID = "l5Z-5J-Ot8"; */
+"l5Z-5J-Ot8.placeholder" = "Please input the tel";
+
+/* Class = "UITextField"; placeholder = "WIFI"; ObjectID = "mbD-cT-bRH"; */
+"mbD-cT-bRH.placeholder" = "WIFI";
+
+/* Class = "UINavigationItem"; title = "添加设备"; ObjectID = "nKx-MH-1RN"; */
+"nKx-MH-1RN.title" = "Add Device";
+
+/* Class = "UILabel"; text = "1份"; ObjectID = "nS6-C9-MSb"; */
+"nS6-C9-MSb.text" = "1份";
+
+/* Class = "UILabel"; text = "喂食"; ObjectID = "o7Z-8N-T3d"; */
+"o7Z-8N-T3d.text" = "Fooding";
+
+/* Class = "UITabBarItem"; title = "设备"; ObjectID = "oEB-zT-HaJ"; */
+"oEB-zT-HaJ.title" = "Devie";
+
+/* Class = "UIButton"; normalTitle = "搜索中"; ObjectID = "oiT-sk-miH"; */
+"oiT-sk-miH.normalTitle" = "Searching";
+
+/* Class = "UILabel"; text = "正在添加设备，请稍等"; ObjectID = "pPt-YO-bOX"; */
+"pPt-YO-bOX.text" = "Adding device, please wait";
+
+/* Class = "UINavigationItem"; title = "宠物关爱者"; ObjectID = "q1p-yz-1cD"; */
+"q1p-yz-1cD.title" = "PetCare";
+
+/* Class = "UINavigationItem"; title = "添加设备"; ObjectID = "q4T-Xy-O2W"; */
+"q4T-Xy-O2W.title" = "Add Device";
+
+/* Class = "UITableViewSection"; headerTitle = "喂养数据"; ObjectID = "qYR-tY-s01"; */
+"qYR-tY-s01.headerTitle" = "Feed Data";
+
+/* Class = "UITableViewSection"; headerTitle = "喂食"; ObjectID = "qYb-6f-pJx"; */
+"qYb-6f-pJx.headerTitle" = "Fooding";
+
+/* Class = "UILabel"; text = "您的设备初次上电后自动进入可配置状态。非第一次配置需要长按配网按键2秒，使设备指示灯快速闪烁，进入可配置状态。"; ObjectID = "qfb-nG-iIE"; */
+"qfb-nG-iIE.text" = "Your device automatically enters a configurable state when it first powers up. Non-first configuration requires a long press of the network button for 2 seconds, so that the device indicator flashes quickly, into the configurable state.";
+
+/* Class = "UITextField"; placeholder = "请设置密码"; ObjectID = "qta-q9-Spp"; */
+"qta-q9-Spp.placeholder" = "Please set your password";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "r4r-2c-KNz"; */
+"r4r-2c-KNz.normalTitle" = "Next";
+
+/* Class = "UITableViewSection"; headerTitle = "份数"; ObjectID = "rC6-PP-g6G"; */
+"rC6-PP-g6G.headerTitle" = "Count";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "rWF-WL-h8J"; */
+"rWF-WL-h8J.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "喂水"; ObjectID = "rsb-Qw-UQ2"; */
+"rsb-Qw-UQ2.normalTitle" = "Watering";
+
+/* Class = "UIButton"; normalTitle = "00:00"; ObjectID = "s9D-Ws-yRw"; */
+"s9D-Ws-yRw.normalTitle" = "00:00";
+
+/* Class = "UILabel"; text = "1/3"; ObjectID = "tHS-5R-8B8"; */
+"tHS-5R-8B8.text" = "1/3";
+
+/* Class = "UIButton"; normalTitle = "忘记密码"; ObjectID = "tNS-xe-pnD"; */
+"tNS-xe-pnD.normalTitle" = "Forget Password";
+
+/* Class = "UINavigationItem"; title = "注册"; ObjectID = "uCa-e5-p1u"; */
+"uCa-e5-p1u.title" = "Register";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "uVM-Id-pu4"; */
+"uVM-Id-pu4.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "喂食"; ObjectID = "ukZ-Dj-cbL"; */
+"ukZ-Dj-cbL.normalTitle" = "Fooding";
+
+/* Class = "UILabel"; text = "当天"; ObjectID = "vD2-PN-yMY"; */
+"vD2-PN-yMY.text" = "Today";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "xxa-wG-tIo"; */
+"xxa-wG-tIo.text" = "00:00";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "yVn-rp-jmR"; */
+"yVn-rp-jmR.text" = "00:00";
+
+/* Class = "UITableViewSection"; headerTitle = "重复"; ObjectID = "ywe-Jb-ZwI"; */
+"ywe-Jb-ZwI.headerTitle" = "Repeat";
+
+/* Class = "UILabel"; text = "当天"; ObjectID = "zOZ-Hs-Zma"; */
+"zOZ-Hs-Zma.text" = "Today";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-3"; ObjectID = "zop-Wd-fuA"; */
+"zop-Wd-fuA.headerTitle" = "Section-3";
